@@ -1,7 +1,7 @@
 # Breast_Cancer_Survival-Analysis
 DSTI, MsC Applied Data Science Project
 
-This project aims to analyze and predict the survival of breast cancer patients using various statistical methods and machine learning models. The analysis includes data processing, visualization, and model building to explore factors that influence patient survival.
+This project aims to analyse and predict the survival of breast cancer patients using various statistical methods and machine learning models. The analysis includes data processing, visualization, and model building to explore factors that influence patient survival.
 
 ## Table of Contents
 - [Installation](#installation)
