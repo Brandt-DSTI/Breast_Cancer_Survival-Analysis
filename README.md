@@ -46,6 +46,7 @@ Modeling: Implement machine learning models to predict patient survival.
 Interactive Reports: Render reports in HTML and Markdown formats for easy sharing and visualisation.
 
 ## Project Structure
+```
 /Breast_Cancer_Survival-Analysis/
 ├── R/                       # R code and scripts for analysis
 ├── Report/                  # Summarised analysis of project
@@ -54,7 +55,7 @@ Interactive Reports: Render reports in HTML and Markdown formats for easy sharin
 ├── .Rprofile                # To load packages
 ├── README.md                # Project overview and instructions
 └── renv.lock                # Lockfile for package dependencies
-
+```
 ## Contributing 
 
 Contributions are welcome! Please open an issue or submit a pull request.
